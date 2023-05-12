@@ -1,0 +1,1 @@
+web: gunicorn TP3_COPIA:server
